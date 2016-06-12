@@ -95,7 +95,7 @@ namespace BazaElementow
                 MessageBox.Show("Wybierz element, który chcesz usunąć!",
                  "Uwaga", MessageBoxButton.OK, MessageBoxImage.Warning);
             }
-
+            ListView1.ItemsSource = elementsList;
         }
         private void buttonCount_Click(object sender, RoutedEventArgs e)
         {
