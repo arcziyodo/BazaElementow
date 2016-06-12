@@ -1,0 +1,13 @@
+c:\users\artur\documents\visual studio 2013\Projects\BazaElementow\BazaElementow\bin\Debug\BazaElementow.exe.config
+C:\Users\Artur\Documents\Visual Studio 2013\Projects\BazaElementow\BazaElementow\bin\Debug\BazaElementow.exe
+C:\Users\Artur\Documents\Visual Studio 2013\Projects\BazaElementow\BazaElementow\bin\Debug\BazaElementow.pdb
+C:\Users\Artur\Documents\Visual Studio 2013\Projects\BazaElementow\BazaElementow\obj\Debug\BazaElementow.csprojResolveAssemblyReference.cache
+C:\Users\Artur\Documents\Visual Studio 2013\Projects\BazaElementow\BazaElementow\obj\Debug\MainWindow.baml
+C:\Users\Artur\Documents\Visual Studio 2013\Projects\BazaElementow\BazaElementow\obj\Debug\MainWindow.g.cs
+C:\Users\Artur\Documents\Visual Studio 2013\Projects\BazaElementow\BazaElementow\obj\Debug\App.g.cs
+C:\Users\Artur\Documents\Visual Studio 2013\Projects\BazaElementow\BazaElementow\obj\Debug\BazaElementow_MarkupCompile.cache
+C:\Users\Artur\Documents\Visual Studio 2013\Projects\BazaElementow\BazaElementow\obj\Debug\BazaElementow.g.resources
+C:\Users\Artur\Documents\Visual Studio 2013\Projects\BazaElementow\BazaElementow\obj\Debug\BazaElementow.Properties.Resources.resources
+C:\Users\Artur\Documents\Visual Studio 2013\Projects\BazaElementow\BazaElementow\obj\Debug\BazaElementow.csproj.GenerateResource.Cache
+C:\Users\Artur\Documents\Visual Studio 2013\Projects\BazaElementow\BazaElementow\obj\Debug\BazaElementow.exe
+C:\Users\Artur\Documents\Visual Studio 2013\Projects\BazaElementow\BazaElementow\obj\Debug\BazaElementow.pdb
