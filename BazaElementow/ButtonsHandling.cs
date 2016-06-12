@@ -49,6 +49,7 @@ namespace BazaElementow
             this.AmountTextBox.Text = "";
             this.ElementSignatureTextBox.Text = "";
             this.BoxSignatureTextBox.Text = "";
+            ListView1.ItemsSource = elementsList;
 
         }
         private void buttonSearch_Click(object sender, RoutedEventArgs e)
