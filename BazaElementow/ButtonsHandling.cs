@@ -40,6 +40,7 @@ namespace BazaElementow
             {
                 MessageBox.Show("Formularz zawiera puste pola", "Błąd!", MessageBoxButton.OK, MessageBoxImage.Warning);
             }
+            ListView1.ItemsSource = elementsList;
 
         }
         private void buttonClean_Click(object sender, RoutedEventArgs e)
@@ -54,7 +55,7 @@ namespace BazaElementow
         {
             SearchOptions option;
             option = Check();
-
+        
             if (option == SearchOptions.ByAmount)
             {
                 try
@@ -70,7 +71,14 @@ namespace BazaElementow
             {
                 Search(option);
             }
-
+            else if (this.NameTextBox.Text == "" && this.AmountTextBox.Text == "" && this.ElementSignatureTextBox.Text == "" && this.BoxSignatureTextBox.Text == "")
+            {
+                MessageBox.Show("Wszystkie pola są puste, wypełnij jedno dowolne", "Błąd! ", MessageBoxButton.OK, MessageBoxImage.Warning);
+            }
+            else
+            {
+                MessageBox.Show("Zbyt wiele wypełnionych pól, wypełnij tylko jedno dowolne", "Błąd! ", MessageBoxButton.OK, MessageBoxImage.Warning);
+            }
         }
 
         private void buttonDelete_Click(object sender, RoutedEventArgs e)
