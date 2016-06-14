@@ -1,0 +1,10 @@
+Jest to baza umo¿liwiaj¹ca gromadzenie informacji na temat dowolnych przedmiotów/elementów. 
+Przycisk wyczyœæ czyœci wszystkie pola i umo¿liwia wyœwietlenie ca³ej bazy np po dokonaniu szukania, gdzie wyswietlone
+sa elementy spe³niaj¹ce kryterium.
+Aby wyszukaæ interesuj¹ce nas elementy nale wpisaæ dane tylko do jednego dowolnego pola i wed³ug tego kryterium dane 
+wyœwietlone.Powrót do poprzedniego widoku na przycisku wyczyœæ.
+Aby dodaæ element do bazy nale¿y wype³niæ wszystkie pola i klikn¹ przycis dodaj.
+Usuwanie odbywa siê poprzez zaznaczenie na liœcie odpowiedniego elementu i klikniecie usun.
+Po wciœnieciu przycisku Liczba sztuk wszystki elementów pojawi siê komunikat informacyjny o liczbie sztk wszystkich elementów
+
+Pozdrawiam
